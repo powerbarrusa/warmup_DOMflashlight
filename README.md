@@ -4,9 +4,9 @@ Create a "flashlight" using DOM methods.
 
 ### Instructions
 
-1.) Fork and clone this repo to get started.
-2.) Read the Syntax, Methods, and Examples section of  [this.](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
-This project comes with the <html> you need so you can focus on Javascript.
+1. Fork and clone this repo to get started.
+2. Read the Usage Notes "The event listener callback" and the Examples section of [this.](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)  
+3. Read the Syntax, Methods, and Examples section of  [this.](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 
 ### Terms To Know
 
