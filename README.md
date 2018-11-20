@@ -20,7 +20,9 @@ Stretch:
 
 [Event Listener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
-[Callback Function]()
+[Callback Function](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
+
+[Toggle](https://www.techopedia.com/definition/9740/toggle)
 
 
 ### Learning To Learn
