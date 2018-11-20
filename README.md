@@ -18,6 +18,8 @@ Stretch:
 
 ### Javascript Terms To Know
 
+[DOM Manipulation](https://developer.mozilla.org/en-US/docs/Web/API/Document_Object_Model/Introduction)
+
 [Event Listener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
 
 [Callback Function](https://codeburst.io/javascript-what-the-heck-is-a-callback-aba4da2deced)
