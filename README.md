@@ -29,7 +29,7 @@ Stretch:
 
 ### Learning To Learn
 
-Resources as your disposal:
+Resources at your disposal:
 - Take notes on your process and prepare questions.
 - Use Polya's method. What is your plan?
 - Ask a classmate to talk through their process with you.  
