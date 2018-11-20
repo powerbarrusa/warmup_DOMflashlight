@@ -19,6 +19,7 @@ Stretch:
 ### Javascript Terms To Know
 
 [Event Listener](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)
+
 [Callback Function]()
 
 
