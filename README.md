@@ -8,8 +8,15 @@ Create a "flashlight" using DOM methods.
 2. Read the Usage Notes "The event listener callback" and the Examples section of [this.](https://developer.mozilla.org/en-US/docs/Web/API/EventTarget/addEventListener)  
 3. Read the Syntax, Methods, and Examples section of  [this.](https://developer.mozilla.org/en-US/docs/Web/API/Element/classList)
 
-### Terms To Know
+### Javascript Terms To Know
+
+Event Listener
+Callback Function 
+
 
 ### Learning To Learn
 
-If you have been working on the same problem for more than 15 minutes, stop or ask for help. If you cant get help immediately, take notes on your problem and come to class with questions. TAKE BREAKS You will burn out if you don't set up healthy habits to help you out when you're struggling. There are so many things you could be working on outside of trying to find that one syntax error. Make sure you start with a clear goal in mind and also retro your process. Below is a list of helpful time management resources.
+Resources as your disposal:
+- Take notes on your process and prepare questions.
+- Use Polya's method. What is your plan?
+- Ask a classmate to talk through their process with you.  
